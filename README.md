@@ -22,7 +22,7 @@ This template combines the power of Vite and React, allowing developers to quick
 
 To get started with this template, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-project.git`
+1. Clone this repository: `git clone https://github.com/Researcher0619/BillGates.git
 2. Navigate to the project directory: `cd your-project`
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm run dev` or `yarn dev`
